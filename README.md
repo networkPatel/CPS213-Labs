@@ -1,4 +1,5 @@
 # CPS213-Labs
+**LOGISIM REQUIRED TO OPEN .CIRC FILES**
 CPS 213 Computer Organization Labs
 Labs 1 through 5
 
